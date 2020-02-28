@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\xolmc\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\xolmc\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_IndividualSPAreact.-181543452.00" t="ExcludeRecursive" />
+    <e p="C:\Users\xolmc\RiderProjects\IndividualSPAreact" t="IncludeFlat">
+      <e p="IndividualSPAreact" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Business" t="Include">
+          <e p="ItemFAQService.cs" t="Include" />
+        </e>
+        <e p="ClientApp" t="Include">
+          <e p=".gitignore" t="Include" />
+          <e p="node_modules\@emotion\hash" t="IncludeRecursive" />
+          <e p="node_modules\@material-ui\core" t="IncludeRecursive" />
+          <e p="node_modules\@material-ui\styles" t="IncludeRecursive" />
+          <e p="node_modules\@material-ui\system" t="IncludeRecursive" />
+          <e p="node_modules\@material-ui\Types" t="IncludeRecursive" />
+          <e p="node_modules\@material-ui\utils" t="IncludeRecursive" />
+          <e p="node_modules\@types" t="IncludeRecursive">
+            <e p="prop-types" t="IncludeRecursive" />
+            <e p="react" t="IncludeRecursive" />
+          </e>
+          <e p="node_modules\bootstrap" t="IncludeRecursive" />
+          <e p="node_modules\clsx" t="IncludeRecursive" />
+          <e p="node_modules\csstype" t="IncludeRecursive" />
+          <e p="node_modules\hoist-non-react-statics" t="IncludeRecursive" />
+          <e p="node_modules\is-in-browser" t="IncludeRecursive" />
+          <e p="node_modules\jss" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-camel-case" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-default-unit" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-global" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-nested" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-props-sort" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-rule-value-function" t="IncludeRecursive" />
+          <e p="node_modules\jss-plugin-vendor-prefixer" t="IncludeRecursive" />
+          <e p="node_modules\normalize-scroll-left" t="IncludeRecursive" />
+          <e p="node_modules\popper.js" t="IncludeRecursive" />
+          <e p="node_modules\react" t="IncludeRecursive" />
+          <e p="node_modules\react-bootstrap" t="IncludeRecursive" />
+          <e p="node_modules\react-dom" t="IncludeRecursive" />
+          <e p="node_modules\react-router-bootstrap" t="IncludeRecursive" />
+          <e p="node_modules\react-router-dom" t="IncludeRecursive" />
+          <e p="node_modules\react-scripts" t="IncludeRecursive" />
+          <e p="node_modules\rimraf" t="IncludeRecursive" />
+          <e p="node_modules\tiny-warning" t="IncludeRecursive" />
+          <e p="package-lock.json" t="Include" />
+          <e p="package.json" t="Include" />
+          <e p="public" t="Include">
+            <e p="favicon.ico" t="Include" />
+            <e p="index.html" t="Include" />
+            <e p="manifest.json" t="Include" />
+          </e>
+          <e p="README.md" t="Include" />
+          <e p="src" t="Include">
+            <e p="App.js" t="Include" />
+            <e p="App.test.js" t="Include" />
+            <e p="components" t="Include">
+              <e p="Forms" t="Include">
+                <e p="Forms.css" t="Include" />
+                <e p="RateQuestion" t="Include">
+                  <e p="RateQuestion.js" t="Include" />
+                </e>
+                <e p="SubmitQuestion" t="Include">
+                  <e p="SubmitQuestion.css" t="Include" />
+                  <e p="SubmitQuestion.js" t="Include" />
+                </e>
+              </e>
+              <e p="Items" t="Include">
+                <e p="Item" t="Include">
+                  <e p="Item.css" t="Include" />
+                  <e p="Item.js" t="Include" />
+                </e>
+                <e p="Items.css" t="Include" />
+                <e p="Items.js" t="Include" />
+              </e>
+              <e p="Layout" t="Include">
+                <e p="Layout.css" t="Include" />
+                <e p="Layout.js" t="Include" />
+              </e>
+              <e p="NavBar" t="Include">
+                <e p="NavBar.css" t="Include" />
+                <e p="NavBar.js" t="Include" />
+              </e>
+              <e p="OtherLinks" t="Include">
+                <e p="OtherLinks.css" t="Include" />
+                <e p="OtherLinks.js" t="Include" />
+              </e>
+              <e p="Questions" t="Include">
+                <e p="Question" t="Include">
+                  <e p="Question.css" t="Include" />
+                  <e p="Question.js" t="Include" />
+                </e>
+                <e p="Questions.js" t="Include" />
+              </e>
+              <e p="SubmittedQuestions" t="Include">
+                <e p="SubmittedQuestion" t="Include">
+                  <e p="Submittedquestion.css" t="Include" />
+                  <e p="SubmittedQuestion.js" t="Include" />
+                </e>
+                <e p="SubmittedQuestions.js" t="Include" />
+              </e>
+            </e>
+            <e p="containters" t="Include">
+              <e p="Forum" t="Include">
+                <e p="Forum.css" t="Include" />
+                <e p="Forum.js" t="Include" />
+              </e>
+              <e p="Type" t="Include">
+                <e p="Type.css" t="Include" />
+                <e p="Type.js" t="Include" />
+              </e>
+              <e p="Types" t="Include">
+                <e p="Types.css" t="Include" />
+                <e p="Types.js" t="Include" />
+              </e>
+            </e>
+            <e p="index.css" t="Include" />
+            <e p="index.js" t="Include" />
+            <e p="registerServiceWorker.js" t="Include" />
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="MainController.cs" t="Include" />
+        </e>
+        <e p="IndividualSPAreact.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="IndividualSPAreact.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Repository" t="Include">
+          <e p="DatabaseContext.cs" t="Include" />
+          <e p="DbInit.cs" t="Include" />
+          <e p="Models" t="Include">
+            <e p="ItemFAQ.cs" t="Include" />
+            <e p="ItemQuestion.cs" t="Include" />
+            <e p="SubmittedQuestion.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="IndividualSPAreact.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

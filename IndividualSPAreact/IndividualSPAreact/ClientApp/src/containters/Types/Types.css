@@ -1,0 +1,39 @@
+.buffer {
+  border-left: 1px solid rgb(46, 141, 112, 0.7);
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.extramargin {
+  margin-bottom: 80px;
+}
+
+.fixed-row-bottom {
+  bottom: auto;
+}
+
+.border {
+  border-left: 1px solid rgb(46, 141, 112, 0.7) !important;
+}
+
+.h3 {
+  font-weight: bold;
+}
+
+.link {
+  color: rgb(46, 141, 112);
+}
+
+.link:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .border {
+    border-left: 0 !important;
+  }
+  .buffer {
+    border-left: 0 !important;
+  }
+}

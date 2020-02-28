@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53621aea-41d5-4d0a-b5d6-d971c8a861ea" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Repository/DbInit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Repository/Models/SubmittedQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Repository/DatabaseContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Repository/Models/ItemFAQ.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Controllers/MainController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Business/ItemFAQService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/IndividualSPAreact/Repository/Models/ItemQuestion.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/IndividualSPAreact/ClientApp/src/components/Layout.js" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/ClientApp/public/index.html" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/ClientApp/src/App.js" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/ClientApp/src/components/Items/Items.js" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Repository/Models/Question.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Repository/Models/ItemFAQ.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Repository/DatabaseContext.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Repository/Models/SubmittedQuestion.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/ClientApp/src/index.js" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Repository/Models/ItemQuestion.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Business/ItemFAQService.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Repository/DbInit.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Startup.cs" />
+        <option value="$PROJECT_DIR$/IndividualSPAreact/Controllers/MainController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1THQlkhdVYcbW7OjFR5AWtHTaXG" />
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.IndividualSPAreact">
+    <configuration name="IndividualSPAreact" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/IndividualSPAreact/IndividualSPAreact.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IndividualSPAreact" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndividualSPAreact: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/IndividualSPAreact/IndividualSPAreact.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53621aea-41d5-4d0a-b5d6-d971c8a861ea" name="Default Changelist" comment="" />
+      <created>1573114694557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573114694557</updated>
+      <workItem from="1573114698746" duration="49546000" />
+      <workItem from="1573583620328" duration="13380000" />
+      <workItem from="1573923576210" duration="2926000" />
+      <workItem from="1573926706738" duration="113000" />
+      <workItem from="1573927053086" duration="3225000" />
+      <workItem from="1573998993020" duration="1619000" />
+      <workItem from="1581415059030" duration="256000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

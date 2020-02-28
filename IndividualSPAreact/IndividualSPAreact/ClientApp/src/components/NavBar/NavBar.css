@@ -1,0 +1,39 @@
+.image {
+  height: 100px;
+  width: 100px;
+  min-height: 80px;
+}
+
+.NavBrand {
+  margin-left: 40px !important;
+  margin-right: 40px !important;
+  padding: 0 !important;
+}
+
+.NavItem {
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.NavItem.active {
+  text-decoration: underline;
+}
+
+.Nav {
+  margin-left: 40px;
+  padding-top: 40px;
+}
+
+@media (max-width: 767px) {
+  body {
+    padding-top: 0px !important;
+  }
+}
+
+.navbar-toggle {
+  margin-top: 35px;
+  height: 30px;
+  width: 30px;
+  background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}

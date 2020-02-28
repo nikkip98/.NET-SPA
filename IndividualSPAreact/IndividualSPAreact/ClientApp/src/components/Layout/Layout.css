@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100%;
+}
+
+.footer {
+  padding: 40px 0;
+  background: rgb(0, 0, 0);
+  color: white;
+  width: 100%;
+  display: flex !important;
+  flex-grow: 1 !important;
+}
+
+.footer-text-name {
+  text-align: right;
+}
+
+.footer-text-title {
+  text-align: left;
+}

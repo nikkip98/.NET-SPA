@@ -1,0 +1,17 @@
+.Item {
+  width: 450px;
+  padding: 16px;
+  text-align: center;
+  box-shadow: inset 0 3px 9px rgba(0, 0, 0, 0.075);
+  background-color: rgb(46, 141, 112, 0.3);
+  margin: 10px;
+  font-weight: bolder;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+@media (max-width: 600px) {
+  .Item {
+    width: 80%;
+  }
+}

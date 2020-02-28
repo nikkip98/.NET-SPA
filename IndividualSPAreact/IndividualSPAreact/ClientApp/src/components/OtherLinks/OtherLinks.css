@@ -1,0 +1,8 @@
+.OtherLinks p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.OtherLinks p {
+  color: rgb(46, 141, 112);
+}
